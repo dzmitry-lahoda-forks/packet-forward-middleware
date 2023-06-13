@@ -119,8 +119,8 @@ In the case of a timeout after 10 minutes for either forward, the packet would b
 }
 ```
 
+## Implementation details
+
 ## References
 
-- https://www.mintscan.io/cosmos/proposals/56
-- https://github.com/cosmos/ibc-go/pull/373
 - https://github.com/strangelove-ventures/governance/blob/master/proposals/2021-09-hub-ibc-router/README.md
